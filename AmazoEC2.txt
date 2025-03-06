@@ -1,0 +1,95 @@
+
+Case Study on Amazon EC2 (Elastic Compute Cloud)
+
+Title: Amazon EC2 – Revolutionizing Cloud Computing
+
+1. Introduction
+
+Cloud computing has transformed the way businesses manage their IT infrastructure, offering flexibility, scalability, and cost-efficiency. Amazon Elastic Compute Cloud (EC2), a key service provided by Amazon Web Services (AWS), enables users to deploy virtual servers on-demand. This case study explores the features, benefits, real-world applications, and challenges of Amazon EC2.
+
+2. Background of Amazon EC2
+
+Amazon EC2 was launched in August 2006 as part of AWS, providing resizable compute capacity in the cloud. It allows businesses to launch virtual machines (instances) with various configurations, operating systems, and pricing models.
+
+3. Features of Amazon EC2
+
+a. On-Demand Computing
+
+Users can rent virtual machines and pay only for the computing power they use.
+
+
+b. Multiple Instance Types
+
+EC2 offers various instance families optimized for compute, memory, and storage-intensive workloads.
+
+Example: t2.micro (General Purpose), c5.large (Compute Optimized)
+
+
+c. Auto Scaling and Elastic Load Balancing
+
+Ensures high availability and fault tolerance by automatically scaling instances based on demand.
+
+
+d. Security and Networking
+
+Supports Virtual Private Cloud (VPC), Security Groups, and IAM roles to ensure secure access.
+
+
+e. Pricing Models
+
+On-Demand Instances – Pay for what you use.
+
+Reserved Instances – Prepaid for long-term cost savings.
+
+Spot Instances – Unused capacity at lower prices.
+
+
+4. Real-World Use Cases of Amazon EC2
+
+a. Netflix – Streaming Services
+
+Netflix relies on EC2 to process and deliver high-quality video content globally. Auto Scaling ensures smooth performance even during peak hours.
+
+b. Airbnb – Hospitality Platform
+
+Airbnb uses EC2 for handling dynamic workloads related to booking, listing management, and customer service.
+
+c. NASA – High-Performance Computing
+
+NASA leverages EC2 for data-intensive simulations and research in space exploration.
+
+5. Advantages of Amazon EC2
+
+Scalability: Easily scale up or down based on demand.
+
+Cost-Effectiveness: Pay-as-you-go model reduces infrastructure costs.
+
+Flexibility: Wide range of OS support (Linux, Windows, etc.).
+
+Reliability: AWS offers 99.99% uptime and backup solutions.
+
+
+6. Challenges and Limitations
+
+Cost Management: Unmonitored usage can lead to high costs.
+
+Security Risks: Cloud security concerns if access controls are not properly configured.
+
+Learning Curve: Requires expertise in cloud services and configurations.
+
+
+7. Conclusion
+
+Amazon EC2 has redefined how businesses deploy and manage computing resources, making cloud computing accessible, scalable, and efficient. While it offers numerous benefits, organizations must manage costs and security properly to maximize its advantages.
+
+8. References
+
+Amazon Web Services (AWS) Official Documentation
+
+Case studies from Netflix, Airbnb, and NASA
+
+
+
+---
+
+Would you like me to add diagrams, figures, or additional details based on your specific requirements?
